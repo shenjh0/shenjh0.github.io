@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /about_me/
-author_profile: true
+author_profile: false
 ---
 [Short CV](http://XingLLiu.github.io/files/CV_Xing_LIU.pdf)
 
