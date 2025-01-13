@@ -17,7 +17,7 @@ My research interests lie in the multimodal, computer vision, and remote sensing
 - 2018.09 - 2022.07   B.Eng. in Automation from Honors College, Northwestern Polytechnical University, Xi’an, China.
 
 
-## News
+## :fire: News
 - [08/2024] Our work "Learning Remote Sensing Aleatoric Uncertainty for Semi-Supervised Change Detection" is published! [PDF](https://ieeexplore.ieee.org/abstract/document/10621657)
 
 - [08/2023] Our work "Enhancing Prospective Consistency for Semi-supervised Object Detection in Remote-Sensing Images" is published! [PDF](https://ieeexplore.ieee.org/abstract/document/10234445)
