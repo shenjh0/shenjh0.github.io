@@ -13,11 +13,7 @@ Hi! My name is Shen Jinhao. I am pursuing the M.S degree at the School of Artifi
 
 My research interests lie in the multimodal, computer vision, and remote sensing. 
 
-## :mortar_board Education 
-2018.09 - 2022.07   B.Eng. in Automation from Honors College, Northwestern Polytechnical University, Xi’an, China.
-:mortar_board: BSc in Mathematics with Statistics, 2016-2019, <span class="grey">Imperial College London</span>
-:mortar_board: B.Eng. in Automation from Honors College, 2018-2022, <span class="grey">Northwestern Polytechnical University</span>
-
+## Education 
 2018.08 - 2021.04   M.Eng. in Computer Science and Technology from School of Artificial Intelligence, Optics and Electronics (iOPEN), Northwestern Polytechnical University, Xi’an, China.
 2018.09 - 2022.07   B.Eng. in Automation from Honors College, Northwestern Polytechnical University, Xi’an, China.
 
